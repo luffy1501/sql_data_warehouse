@@ -1,3 +1,11 @@
+/*
+======================================================
+DDL Scripts
+======================================================
+This Scripts creates table  in the silver schema dropping the
+table if already exist.
+Run this script and redefine the bronze DDL layer
+*/
 
 
 
